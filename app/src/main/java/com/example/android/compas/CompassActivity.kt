@@ -1,7 +1,8 @@
 package com.example.android.compas
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
 
 class CompassActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
